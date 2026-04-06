@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing sales data by combining multiple datasets using **SQL JOIN operations** and creating an interactive dashboard using **Power BI**. The goal is to extract actionable insights and support business decision-making.
+This project is part of my Data Analytics & Business Intelligence Internship at Main Crafts Technology. This project focuses on analyzing sales data by combining multiple datasets using **SQL JOIN operations** and creating an interactive dashboard using **Power BI**. The goal is to extract actionable insights and support business decision-making.
 
 ---
 
