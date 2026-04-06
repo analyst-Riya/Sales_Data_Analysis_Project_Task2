@@ -131,4 +131,3 @@ This project demonstrates the use of **SQL for data integration** and **Power BI
 ## 👩‍💻 Author
 Riya - Aspiring Data Analyst
 
-⭐ If you find this project useful, feel free to star the repository!
